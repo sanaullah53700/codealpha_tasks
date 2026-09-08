@@ -4,12 +4,6 @@
 
 ---
 
-## 📸 Screenshot
-
-![VibeWave home screen](screenshots/home-interface.png)
-
----
-
 ## ✨ Features
 
 ### Browsing & Discovery

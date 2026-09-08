@@ -6,6 +6,8 @@ A clean, responsive photography gallery web app built with **HTML, CSS, and vani
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+![FrameGallery hero section preview](screenshots/hero-preview.png)
+
 ## Features
 
 - **Responsive layout** — adapts cleanly from mobile to desktop
